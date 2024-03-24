@@ -35,7 +35,4 @@ Incorporate the findings into player evaluations and scouting reports to identif
 
 ## Acknowledgments
 
-A nod to the giants upon whose shoulders this project stands: the ESPN website (https://www.espn.com/), NBA(https://www.nba.com/), for maintaining extensive archives, and the Python community for the tools that make this possible.
-
-
-
+A nod to the giants upon whose shoulders this project stands: the ESPN website (https://www.espn.com/), NBA(https://www.nba.com/), for maintaining extensive archives.
