@@ -15,7 +15,7 @@ In the realm of professional basketball, the NBA stands as a coliseum of talent,
 
 ## Background
 
-The NBA's storied past is a mosaic of human achievement. From the hardwood floors that witnessed Wilt Chamberlain's 100-point game to the dazzling assists of Magic Johnson, each moment is a testament to the game's evolution. This project aims to offer a panoramic view of these milestones, bridging generations of fans with the legends of the game.
+The NBA's storied past is a mosaic of human achievement. From the hardwood floors that witnessed Wilt Chamberlain's 100-point game to the dazzling assists of Magic Johnson, each moment is a testament to the game's evolution. This project aims to offer a panoramic view of these milestones, bridging generations of fans with the game's legends.
 
 ## Methodology
 
@@ -23,12 +23,13 @@ Leveraging the power of Python and libraries such as Beautiful Soup and Pandas, 
 
 ## Recommendations
 
-Based on this data, we could find which current players could achieve greatness like Wilt Chamberlain, Magic Johnson, and many more. 
-Incorporate the findings into player evaluations and scouting reports to identify promising talents and assess their potential impact on team performance. • Explore opportunities for further analysis, such as comparing player performances across different eras or examining the correlation between individual statistics and team success.
+- Based on this data, we could find which current players could achieve greatness like Wilt Chamberlain, Magic Johnson, and many more. 
+- Incorporate the findings into player evaluations and scouting reports to identify promising talents and assess their potential impact on team performance.
+- Explore opportunities for further analysis, such as comparing player performances across different eras or examining the correlation between individual statistics and team success.
 
 ## Summary and conclusion 
 
-- **Summary:** By leveraging web scraping techniques, we were able to extract and analyze data from the NBA website, providing comprehensive and nuanced perspectives on player performances. 
+- **Summary:** By leveraging web scraping techniques, we extracted and analyzed data from the NBA website, providing comprehensive and nuanced perspectives on player performances. 
 
 - **Conclusion:** The findings highlight the enduring legacy of legendary players and their impact on the game of basketball. Through data-driven analysis, we gain a deeper appreciation for the skill, athleticism, and dedication of NBA athletes, underscoring the timeless appeal of the sport.
 
